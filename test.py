@@ -3,7 +3,7 @@ class Demo:
         pass
 
     def hello_world():
-        return "Git changes for revert"
+        return "Git changes in test 3"
 
 
 d1 = Demo()
